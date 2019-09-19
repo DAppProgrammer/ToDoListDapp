@@ -6,4 +6,6 @@ Smart Contract written in Solidity
 
 Test cases for smart contract
 
-Client side application in ReactJS
+Client side application coded using Web3, ReactJS, & Bootstrap.
+
+
