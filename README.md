@@ -1,4 +1,4 @@
-A simple to-do-list DApp using Solidity and ReactJS
+A very basic to-do-list Dapp application to demonstrate basic Smart Contract programming and interacting with it using web3 and any javascript client (e.g. ReactJS)
 
 ## Project file contains
 
