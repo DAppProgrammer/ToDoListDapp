@@ -1,7 +1,9 @@
 A simple to-do-list DApp using Solidity and ReactJS
 
-## Available contains
+## Project file contains
 
 Smart Contract written in Solidity 
+
 Test cases for smart contract
+
 Client side application in ReactJS
